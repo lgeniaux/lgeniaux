@@ -2,7 +2,7 @@
 <h3 align="center">Student at 42 Lyon</h3>
 
 <p align="center">
-  <img alt="Card lgeniaux" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&leet_logo=hide&login=lgeniaux" />
+  <img alt="Card lgeniaux" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=lgeniaux"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
